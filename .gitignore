@@ -1,0 +1,12 @@
+# Conda environment
+.env
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment file (optional)
+*.DS_Store
+*.log
+
+# Conda directories
+env/
